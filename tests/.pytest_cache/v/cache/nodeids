@@ -1,0 +1,10 @@
+[
+  "test_get.py::test_response_code", 
+  "test_get.py::test_header_conetnt_type", 
+  "test_get.py::test_correct_number_of_restaurants_is_returned", 
+  "test_get.py::test_address_is_returned", 
+  "test_get.py::test_filter_by_cuisine", 
+  "test_get.py::test_filter_by_flag", 
+  "test_get.py::test_sort_by_orders", 
+  "test_get.py::test_post_negative"
+]
